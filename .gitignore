@@ -1,0 +1,22 @@
+# Bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Large training datasets and intermediate artifacts
+voxcpm_latents/
+processed_data/
+pretrained_models/
+*.csv
+!eval_production_full_val/*.csv
+lightning_logs/
+TTS_logs/
+
+# Checkpoint rules
+TTS_checkpoints/*
+!TTS_checkpoints/mambaflow_latent_v1.ckpt
+
+# OS and environment files
+.DS_Store
+.env
+.venv

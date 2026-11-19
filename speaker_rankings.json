@@ -1,0 +1,1462 @@
+[
+  {
+    "rank": 0,
+    "speaker_id": 4362,
+    "composite_score": 0.9466,
+    "spk_sim": 0.9889,
+    "nisqa_mos": 4.89,
+    "dnsmos_ovrl": 3.92,
+    "wer": 0.0299,
+    "train_utterances": 137
+  },
+  {
+    "rank": 1,
+    "speaker_id": 7505,
+    "composite_score": 0.9464,
+    "spk_sim": 0.9907,
+    "nisqa_mos": 4.71,
+    "dnsmos_ovrl": 3.94,
+    "wer": 0.0151,
+    "train_utterances": 204
+  },
+  {
+    "rank": 2,
+    "speaker_id": 3857,
+    "composite_score": 0.9462,
+    "spk_sim": 0.9862,
+    "nisqa_mos": 4.74,
+    "dnsmos_ovrl": 3.88,
+    "wer": 0.0069,
+    "train_utterances": 140
+  },
+  {
+    "rank": 3,
+    "speaker_id": 196,
+    "composite_score": 0.9446,
+    "spk_sim": 0.9716,
+    "nisqa_mos": 4.91,
+    "dnsmos_ovrl": 3.87,
+    "wer": 0.026,
+    "train_utterances": 181
+  },
+  {
+    "rank": 4,
+    "speaker_id": 7447,
+    "composite_score": 0.9413,
+    "spk_sim": 0.9852,
+    "nisqa_mos": 4.76,
+    "dnsmos_ovrl": 3.9,
+    "wer": 0.0405,
+    "train_utterances": 183
+  },
+  {
+    "rank": 5,
+    "speaker_id": 446,
+    "composite_score": 0.9412,
+    "spk_sim": 0.961,
+    "nisqa_mos": 4.79,
+    "dnsmos_ovrl": 3.98,
+    "wer": 0.025,
+    "train_utterances": 104
+  },
+  {
+    "rank": 6,
+    "speaker_id": 3240,
+    "composite_score": 0.9396,
+    "spk_sim": 0.9819,
+    "nisqa_mos": 4.92,
+    "dnsmos_ovrl": 3.98,
+    "wer": 0.0294,
+    "train_utterances": 126
+  },
+  {
+    "rank": 7,
+    "speaker_id": 2092,
+    "composite_score": 0.9385,
+    "spk_sim": 0.9787,
+    "nisqa_mos": 4.77,
+    "dnsmos_ovrl": 4.02,
+    "wer": 0.0433,
+    "train_utterances": 128
+  },
+  {
+    "rank": 8,
+    "speaker_id": 8747,
+    "composite_score": 0.9379,
+    "spk_sim": 0.9641,
+    "nisqa_mos": 4.88,
+    "dnsmos_ovrl": 4.0,
+    "wer": 0.0208,
+    "train_utterances": 181
+  },
+  {
+    "rank": 9,
+    "speaker_id": 2911,
+    "composite_score": 0.9374,
+    "spk_sim": 0.9833,
+    "nisqa_mos": 4.83,
+    "dnsmos_ovrl": 3.86,
+    "wer": 0.0355,
+    "train_utterances": 134
+  },
+  {
+    "rank": 10,
+    "speaker_id": 1263,
+    "composite_score": 0.9374,
+    "spk_sim": 0.969,
+    "nisqa_mos": 4.84,
+    "dnsmos_ovrl": 3.75,
+    "wer": 0.0114,
+    "train_utterances": 217
+  },
+  {
+    "rank": 11,
+    "speaker_id": 2843,
+    "composite_score": 0.9373,
+    "spk_sim": 0.9772,
+    "nisqa_mos": 4.79,
+    "dnsmos_ovrl": 3.8,
+    "wer": 0.0,
+    "train_utterances": 113
+  },
+  {
+    "rank": 12,
+    "speaker_id": 8580,
+    "composite_score": 0.9372,
+    "spk_sim": 0.9443,
+    "nisqa_mos": 5.0,
+    "dnsmos_ovrl": 3.76,
+    "wer": 0.0,
+    "train_utterances": 190
+  },
+  {
+    "rank": 13,
+    "speaker_id": 7794,
+    "composite_score": 0.9368,
+    "spk_sim": 0.9765,
+    "nisqa_mos": 4.84,
+    "dnsmos_ovrl": 3.85,
+    "wer": 0.0233,
+    "train_utterances": 114
+  },
+  {
+    "rank": 14,
+    "speaker_id": 1841,
+    "composite_score": 0.9368,
+    "spk_sim": 0.9914,
+    "nisqa_mos": 4.74,
+    "dnsmos_ovrl": 4.03,
+    "wer": 0.0382,
+    "train_utterances": 256
+  },
+  {
+    "rank": 15,
+    "speaker_id": 6078,
+    "composite_score": 0.9367,
+    "spk_sim": 0.9707,
+    "nisqa_mos": 4.72,
+    "dnsmos_ovrl": 3.95,
+    "wer": 0.0441,
+    "train_utterances": 180
+  },
+  {
+    "rank": 16,
+    "speaker_id": 1355,
+    "composite_score": 0.9367,
+    "spk_sim": 0.9839,
+    "nisqa_mos": 4.7,
+    "dnsmos_ovrl": 3.83,
+    "wer": 0.0212,
+    "train_utterances": 164
+  },
+  {
+    "rank": 17,
+    "speaker_id": 887,
+    "composite_score": 0.9364,
+    "spk_sim": 0.9718,
+    "nisqa_mos": 4.88,
+    "dnsmos_ovrl": 3.68,
+    "wer": 0.0208,
+    "train_utterances": 209
+  },
+  {
+    "rank": 18,
+    "speaker_id": 374,
+    "composite_score": 0.9363,
+    "spk_sim": 0.9747,
+    "nisqa_mos": 4.57,
+    "dnsmos_ovrl": 3.8,
+    "wer": 0.0064,
+    "train_utterances": 165
+  },
+  {
+    "rank": 19,
+    "speaker_id": 8797,
+    "composite_score": 0.935,
+    "spk_sim": 0.9631,
+    "nisqa_mos": 4.95,
+    "dnsmos_ovrl": 3.91,
+    "wer": 0.0367,
+    "train_utterances": 101
+  },
+  {
+    "rank": 20,
+    "speaker_id": 5778,
+    "composite_score": 0.935,
+    "spk_sim": 0.9767,
+    "nisqa_mos": 4.88,
+    "dnsmos_ovrl": 3.79,
+    "wer": 0.0263,
+    "train_utterances": 113
+  },
+  {
+    "rank": 21,
+    "speaker_id": 8468,
+    "composite_score": 0.9348,
+    "spk_sim": 0.9706,
+    "nisqa_mos": 4.84,
+    "dnsmos_ovrl": 3.86,
+    "wer": 0.0057,
+    "train_utterances": 207
+  },
+  {
+    "rank": 22,
+    "speaker_id": 6019,
+    "composite_score": 0.9336,
+    "spk_sim": 0.9813,
+    "nisqa_mos": 4.62,
+    "dnsmos_ovrl": 3.87,
+    "wer": 0.0338,
+    "train_utterances": 122
+  },
+  {
+    "rank": 23,
+    "speaker_id": 2196,
+    "composite_score": 0.9334,
+    "spk_sim": 0.9798,
+    "nisqa_mos": 4.65,
+    "dnsmos_ovrl": 3.86,
+    "wer": 0.0333,
+    "train_utterances": 104
+  },
+  {
+    "rank": 24,
+    "speaker_id": 1963,
+    "composite_score": 0.9325,
+    "spk_sim": 0.9744,
+    "nisqa_mos": 4.82,
+    "dnsmos_ovrl": 3.59,
+    "wer": 0.0069,
+    "train_utterances": 113
+  },
+  {
+    "rank": 25,
+    "speaker_id": 4397,
+    "composite_score": 0.9321,
+    "spk_sim": 0.9692,
+    "nisqa_mos": 4.85,
+    "dnsmos_ovrl": 4.08,
+    "wer": 0.0596,
+    "train_utterances": 105
+  },
+  {
+    "rank": 26,
+    "speaker_id": 6531,
+    "composite_score": 0.9317,
+    "spk_sim": 0.9769,
+    "nisqa_mos": 4.85,
+    "dnsmos_ovrl": 3.84,
+    "wer": 0.0565,
+    "train_utterances": 107
+  },
+  {
+    "rank": 27,
+    "speaker_id": 405,
+    "composite_score": 0.9309,
+    "spk_sim": 0.9507,
+    "nisqa_mos": 4.84,
+    "dnsmos_ovrl": 3.63,
+    "wer": 0.0,
+    "train_utterances": 225
+  },
+  {
+    "rank": 28,
+    "speaker_id": 1624,
+    "composite_score": 0.9306,
+    "spk_sim": 0.9801,
+    "nisqa_mos": 4.85,
+    "dnsmos_ovrl": 4.03,
+    "wer": 0.0864,
+    "train_utterances": 137
+  },
+  {
+    "rank": 29,
+    "speaker_id": 1098,
+    "composite_score": 0.9303,
+    "spk_sim": 0.9855,
+    "nisqa_mos": 4.93,
+    "dnsmos_ovrl": 3.87,
+    "wer": 0.0531,
+    "train_utterances": 117
+  },
+  {
+    "rank": 30,
+    "speaker_id": 2893,
+    "composite_score": 0.9302,
+    "spk_sim": 0.9764,
+    "nisqa_mos": 4.66,
+    "dnsmos_ovrl": 3.81,
+    "wer": 0.0078,
+    "train_utterances": 177
+  },
+  {
+    "rank": 31,
+    "speaker_id": 5808,
+    "composite_score": 0.93,
+    "spk_sim": 0.9512,
+    "nisqa_mos": 4.62,
+    "dnsmos_ovrl": 3.65,
+    "wer": 0.0,
+    "train_utterances": 147
+  },
+  {
+    "rank": 32,
+    "speaker_id": 8108,
+    "composite_score": 0.93,
+    "spk_sim": 0.9619,
+    "nisqa_mos": 4.63,
+    "dnsmos_ovrl": 3.67,
+    "wer": 0.0,
+    "train_utterances": 170
+  },
+  {
+    "rank": 33,
+    "speaker_id": 7517,
+    "composite_score": 0.9299,
+    "spk_sim": 0.978,
+    "nisqa_mos": 4.76,
+    "dnsmos_ovrl": 3.88,
+    "wer": 0.0629,
+    "train_utterances": 117
+  },
+  {
+    "rank": 34,
+    "speaker_id": 7402,
+    "composite_score": 0.9294,
+    "spk_sim": 0.9589,
+    "nisqa_mos": 4.76,
+    "dnsmos_ovrl": 3.65,
+    "wer": 0.0,
+    "train_utterances": 209
+  },
+  {
+    "rank": 35,
+    "speaker_id": 87,
+    "composite_score": 0.9293,
+    "spk_sim": 0.9777,
+    "nisqa_mos": 4.91,
+    "dnsmos_ovrl": 3.78,
+    "wer": 0.0475,
+    "train_utterances": 142
+  },
+  {
+    "rank": 36,
+    "speaker_id": 6836,
+    "composite_score": 0.9292,
+    "spk_sim": 0.935,
+    "nisqa_mos": 4.79,
+    "dnsmos_ovrl": 3.65,
+    "wer": 0.0,
+    "train_utterances": 118
+  },
+  {
+    "rank": 37,
+    "speaker_id": 1553,
+    "composite_score": 0.9281,
+    "spk_sim": 0.9621,
+    "nisqa_mos": 4.77,
+    "dnsmos_ovrl": 3.56,
+    "wer": 0.0,
+    "train_utterances": 140
+  },
+  {
+    "rank": 38,
+    "speaker_id": 5339,
+    "composite_score": 0.9279,
+    "spk_sim": 0.9851,
+    "nisqa_mos": 4.83,
+    "dnsmos_ovrl": 3.93,
+    "wer": 0.0301,
+    "train_utterances": 164
+  },
+  {
+    "rank": 39,
+    "speaker_id": 6209,
+    "composite_score": 0.9278,
+    "spk_sim": 0.9849,
+    "nisqa_mos": 4.32,
+    "dnsmos_ovrl": 3.91,
+    "wer": 0.0147,
+    "train_utterances": 454
+  },
+  {
+    "rank": 40,
+    "speaker_id": 6818,
+    "composite_score": 0.9272,
+    "spk_sim": 0.987,
+    "nisqa_mos": 4.71,
+    "dnsmos_ovrl": 3.9,
+    "wer": 0.0733,
+    "train_utterances": 143
+  },
+  {
+    "rank": 41,
+    "speaker_id": 8419,
+    "composite_score": 0.9265,
+    "spk_sim": 0.9701,
+    "nisqa_mos": 4.83,
+    "dnsmos_ovrl": 4.04,
+    "wer": 0.0177,
+    "train_utterances": 240
+  },
+  {
+    "rank": 42,
+    "speaker_id": 4267,
+    "composite_score": 0.9263,
+    "spk_sim": 0.9726,
+    "nisqa_mos": 4.76,
+    "dnsmos_ovrl": 3.74,
+    "wer": 0.0473,
+    "train_utterances": 184
+  },
+  {
+    "rank": 43,
+    "speaker_id": 669,
+    "composite_score": 0.9252,
+    "spk_sim": 0.9729,
+    "nisqa_mos": 4.56,
+    "dnsmos_ovrl": 3.84,
+    "wer": 0.0278,
+    "train_utterances": 190
+  },
+  {
+    "rank": 44,
+    "speaker_id": 2416,
+    "composite_score": 0.9239,
+    "spk_sim": 0.968,
+    "nisqa_mos": 4.9,
+    "dnsmos_ovrl": 3.89,
+    "wer": 0.0888,
+    "train_utterances": 287
+  },
+  {
+    "rank": 45,
+    "speaker_id": 412,
+    "composite_score": 0.9237,
+    "spk_sim": 0.9505,
+    "nisqa_mos": 4.66,
+    "dnsmos_ovrl": 3.62,
+    "wer": 0.0156,
+    "train_utterances": 231
+  },
+  {
+    "rank": 46,
+    "speaker_id": 3830,
+    "composite_score": 0.9232,
+    "spk_sim": 0.9678,
+    "nisqa_mos": 4.57,
+    "dnsmos_ovrl": 3.83,
+    "wer": 0.0172,
+    "train_utterances": 263
+  },
+  {
+    "rank": 47,
+    "speaker_id": 8609,
+    "composite_score": 0.9229,
+    "spk_sim": 0.9619,
+    "nisqa_mos": 4.62,
+    "dnsmos_ovrl": 3.98,
+    "wer": 0.02,
+    "train_utterances": 189
+  },
+  {
+    "rank": 48,
+    "speaker_id": 8238,
+    "composite_score": 0.9228,
+    "spk_sim": 0.9835,
+    "nisqa_mos": 4.76,
+    "dnsmos_ovrl": 3.83,
+    "wer": 0.0886,
+    "train_utterances": 137
+  },
+  {
+    "rank": 49,
+    "speaker_id": 3607,
+    "composite_score": 0.9224,
+    "spk_sim": 0.9514,
+    "nisqa_mos": 4.92,
+    "dnsmos_ovrl": 3.89,
+    "wer": 0.043,
+    "train_utterances": 151
+  },
+  {
+    "rank": 50,
+    "speaker_id": 6367,
+    "composite_score": 0.9224,
+    "spk_sim": 0.9661,
+    "nisqa_mos": 4.69,
+    "dnsmos_ovrl": 3.57,
+    "wer": 0.0139,
+    "train_utterances": 237
+  },
+  {
+    "rank": 51,
+    "speaker_id": 4788,
+    "composite_score": 0.9217,
+    "spk_sim": 0.9681,
+    "nisqa_mos": 4.87,
+    "dnsmos_ovrl": 3.79,
+    "wer": 0.02,
+    "train_utterances": 116
+  },
+  {
+    "rank": 52,
+    "speaker_id": 5322,
+    "composite_score": 0.9217,
+    "spk_sim": 0.9711,
+    "nisqa_mos": 4.9,
+    "dnsmos_ovrl": 4.1,
+    "wer": 0.0998,
+    "train_utterances": 259
+  },
+  {
+    "rank": 53,
+    "speaker_id": 8324,
+    "composite_score": 0.921,
+    "spk_sim": 0.9648,
+    "nisqa_mos": 4.36,
+    "dnsmos_ovrl": 3.75,
+    "wer": 0.0,
+    "train_utterances": 211
+  },
+  {
+    "rank": 54,
+    "speaker_id": 7800,
+    "composite_score": 0.9204,
+    "spk_sim": 0.9502,
+    "nisqa_mos": 4.82,
+    "dnsmos_ovrl": 3.78,
+    "wer": 0.034,
+    "train_utterances": 266
+  },
+  {
+    "rank": 55,
+    "speaker_id": 8630,
+    "composite_score": 0.9204,
+    "spk_sim": 0.9697,
+    "nisqa_mos": 4.71,
+    "dnsmos_ovrl": 3.79,
+    "wer": 0.0748,
+    "train_utterances": 144
+  },
+  {
+    "rank": 56,
+    "speaker_id": 2182,
+    "composite_score": 0.9204,
+    "spk_sim": 0.9826,
+    "nisqa_mos": 4.58,
+    "dnsmos_ovrl": 3.7,
+    "wer": 0.0237,
+    "train_utterances": 118
+  },
+  {
+    "rank": 57,
+    "speaker_id": 6081,
+    "composite_score": 0.9203,
+    "spk_sim": 0.9724,
+    "nisqa_mos": 4.74,
+    "dnsmos_ovrl": 3.66,
+    "wer": 0.0417,
+    "train_utterances": 148
+  },
+  {
+    "rank": 58,
+    "speaker_id": 5393,
+    "composite_score": 0.9202,
+    "spk_sim": 0.9666,
+    "nisqa_mos": 4.75,
+    "dnsmos_ovrl": 3.55,
+    "wer": 0.0357,
+    "train_utterances": 336
+  },
+  {
+    "rank": 59,
+    "speaker_id": 696,
+    "composite_score": 0.9198,
+    "spk_sim": 0.9746,
+    "nisqa_mos": 4.98,
+    "dnsmos_ovrl": 3.8,
+    "wer": 0.089,
+    "train_utterances": 250
+  },
+  {
+    "rank": 60,
+    "speaker_id": 78,
+    "composite_score": 0.9186,
+    "spk_sim": 0.9572,
+    "nisqa_mos": 4.61,
+    "dnsmos_ovrl": 3.87,
+    "wer": 0.0654,
+    "train_utterances": 245
+  },
+  {
+    "rank": 61,
+    "speaker_id": 8312,
+    "composite_score": 0.9181,
+    "spk_sim": 0.9795,
+    "nisqa_mos": 4.43,
+    "dnsmos_ovrl": 3.69,
+    "wer": 0.0206,
+    "train_utterances": 199
+  },
+  {
+    "rank": 62,
+    "speaker_id": 8088,
+    "composite_score": 0.9169,
+    "spk_sim": 0.9252,
+    "nisqa_mos": 4.74,
+    "dnsmos_ovrl": 3.79,
+    "wer": 0.0,
+    "train_utterances": 374
+  },
+  {
+    "rank": 63,
+    "speaker_id": 1088,
+    "composite_score": 0.9162,
+    "spk_sim": 0.9431,
+    "nisqa_mos": 4.72,
+    "dnsmos_ovrl": 3.58,
+    "wer": 0.02,
+    "train_utterances": 357
+  },
+  {
+    "rank": 64,
+    "speaker_id": 8098,
+    "composite_score": 0.9159,
+    "spk_sim": 0.9556,
+    "nisqa_mos": 4.57,
+    "dnsmos_ovrl": 3.58,
+    "wer": 0.0089,
+    "train_utterances": 179
+  },
+  {
+    "rank": 65,
+    "speaker_id": 7178,
+    "composite_score": 0.9152,
+    "spk_sim": 0.9649,
+    "nisqa_mos": 4.82,
+    "dnsmos_ovrl": 3.91,
+    "wer": 0.1037,
+    "train_utterances": 286
+  },
+  {
+    "rank": 66,
+    "speaker_id": 8465,
+    "composite_score": 0.9152,
+    "spk_sim": 0.9585,
+    "nisqa_mos": 4.51,
+    "dnsmos_ovrl": 3.85,
+    "wer": 0.0,
+    "train_utterances": 165
+  },
+  {
+    "rank": 67,
+    "speaker_id": 1334,
+    "composite_score": 0.9145,
+    "spk_sim": 0.9205,
+    "nisqa_mos": 4.74,
+    "dnsmos_ovrl": 3.57,
+    "wer": 0.025,
+    "train_utterances": 117
+  },
+  {
+    "rank": 68,
+    "speaker_id": 4088,
+    "composite_score": 0.9141,
+    "spk_sim": 0.9467,
+    "nisqa_mos": 4.67,
+    "dnsmos_ovrl": 3.3,
+    "wer": 0.0,
+    "train_utterances": 115
+  },
+  {
+    "rank": 69,
+    "speaker_id": 4160,
+    "composite_score": 0.9136,
+    "spk_sim": 0.949,
+    "nisqa_mos": 4.88,
+    "dnsmos_ovrl": 3.76,
+    "wer": 0.0227,
+    "train_utterances": 197
+  },
+  {
+    "rank": 70,
+    "speaker_id": 5022,
+    "composite_score": 0.9127,
+    "spk_sim": 0.9303,
+    "nisqa_mos": 4.87,
+    "dnsmos_ovrl": 3.55,
+    "wer": 0.025,
+    "train_utterances": 325
+  },
+  {
+    "rank": 71,
+    "speaker_id": 4441,
+    "composite_score": 0.9124,
+    "spk_sim": 0.9028,
+    "nisqa_mos": 4.92,
+    "dnsmos_ovrl": 3.44,
+    "wer": 0.0,
+    "train_utterances": 121
+  },
+  {
+    "rank": 72,
+    "speaker_id": 4406,
+    "composite_score": 0.9119,
+    "spk_sim": 0.9366,
+    "nisqa_mos": 4.81,
+    "dnsmos_ovrl": 3.68,
+    "wer": 0.0312,
+    "train_utterances": 187
+  },
+  {
+    "rank": 73,
+    "speaker_id": 6415,
+    "composite_score": 0.9115,
+    "spk_sim": 0.9653,
+    "nisqa_mos": 4.72,
+    "dnsmos_ovrl": 3.65,
+    "wer": 0.0664,
+    "train_utterances": 292
+  },
+  {
+    "rank": 74,
+    "speaker_id": 3664,
+    "composite_score": 0.9111,
+    "spk_sim": 0.9694,
+    "nisqa_mos": 4.82,
+    "dnsmos_ovrl": 3.89,
+    "wer": 0.0583,
+    "train_utterances": 171
+  },
+  {
+    "rank": 75,
+    "speaker_id": 5561,
+    "composite_score": 0.9105,
+    "spk_sim": 0.9509,
+    "nisqa_mos": 4.92,
+    "dnsmos_ovrl": 3.48,
+    "wer": 0.025,
+    "train_utterances": 269
+  },
+  {
+    "rank": 76,
+    "speaker_id": 6181,
+    "composite_score": 0.91,
+    "spk_sim": 0.9799,
+    "nisqa_mos": 4.53,
+    "dnsmos_ovrl": 3.67,
+    "wer": 0.0814,
+    "train_utterances": 102
+  },
+  {
+    "rank": 77,
+    "speaker_id": 1116,
+    "composite_score": 0.9096,
+    "spk_sim": 0.9676,
+    "nisqa_mos": 4.73,
+    "dnsmos_ovrl": 3.75,
+    "wer": 0.0746,
+    "train_utterances": 232
+  },
+  {
+    "rank": 78,
+    "speaker_id": 3242,
+    "composite_score": 0.9096,
+    "spk_sim": 0.8938,
+    "nisqa_mos": 4.6,
+    "dnsmos_ovrl": 3.47,
+    "wer": 0.0,
+    "train_utterances": 158
+  },
+  {
+    "rank": 79,
+    "speaker_id": 4680,
+    "composite_score": 0.909,
+    "spk_sim": 0.942,
+    "nisqa_mos": 4.8,
+    "dnsmos_ovrl": 3.39,
+    "wer": 0.0,
+    "train_utterances": 280
+  },
+  {
+    "rank": 80,
+    "speaker_id": 4018,
+    "composite_score": 0.9085,
+    "spk_sim": 0.97,
+    "nisqa_mos": 4.57,
+    "dnsmos_ovrl": 3.84,
+    "wer": 0.08,
+    "train_utterances": 207
+  },
+  {
+    "rank": 81,
+    "speaker_id": 6454,
+    "composite_score": 0.908,
+    "spk_sim": 0.9402,
+    "nisqa_mos": 4.62,
+    "dnsmos_ovrl": 3.47,
+    "wer": 0.05,
+    "train_utterances": 146
+  },
+  {
+    "rank": 82,
+    "speaker_id": 7067,
+    "composite_score": 0.9072,
+    "spk_sim": 0.9707,
+    "nisqa_mos": 4.79,
+    "dnsmos_ovrl": 3.78,
+    "wer": 0.1,
+    "train_utterances": 299
+  },
+  {
+    "rank": 83,
+    "speaker_id": 3486,
+    "composite_score": 0.9072,
+    "spk_sim": 0.9699,
+    "nisqa_mos": 4.65,
+    "dnsmos_ovrl": 3.82,
+    "wer": 0.1083,
+    "train_utterances": 232
+  },
+  {
+    "rank": 84,
+    "speaker_id": 1867,
+    "composite_score": 0.907,
+    "spk_sim": 0.9345,
+    "nisqa_mos": 4.78,
+    "dnsmos_ovrl": 3.63,
+    "wer": 0.0833,
+    "train_utterances": 228
+  },
+  {
+    "rank": 85,
+    "speaker_id": 5514,
+    "composite_score": 0.9056,
+    "spk_sim": 0.9638,
+    "nisqa_mos": 4.73,
+    "dnsmos_ovrl": 3.68,
+    "wer": 0.0989,
+    "train_utterances": 118
+  },
+  {
+    "rank": 86,
+    "speaker_id": 6064,
+    "composite_score": 0.9051,
+    "spk_sim": 0.9342,
+    "nisqa_mos": 4.42,
+    "dnsmos_ovrl": 3.36,
+    "wer": 0.0,
+    "train_utterances": 288
+  },
+  {
+    "rank": 87,
+    "speaker_id": 7190,
+    "composite_score": 0.9032,
+    "spk_sim": 0.9565,
+    "nisqa_mos": 4.61,
+    "dnsmos_ovrl": 3.68,
+    "wer": 0.0614,
+    "train_utterances": 321
+  },
+  {
+    "rank": 88,
+    "speaker_id": 3982,
+    "composite_score": 0.9031,
+    "spk_sim": 0.9469,
+    "nisqa_mos": 4.79,
+    "dnsmos_ovrl": 3.36,
+    "wer": 0.0757,
+    "train_utterances": 201
+  },
+  {
+    "rank": 89,
+    "speaker_id": 1970,
+    "composite_score": 0.9025,
+    "spk_sim": 0.9341,
+    "nisqa_mos": 4.68,
+    "dnsmos_ovrl": 3.49,
+    "wer": 0.0625,
+    "train_utterances": 198
+  },
+  {
+    "rank": 90,
+    "speaker_id": 83,
+    "composite_score": 0.9016,
+    "spk_sim": 0.9604,
+    "nisqa_mos": 4.59,
+    "dnsmos_ovrl": 3.54,
+    "wer": 0.0853,
+    "train_utterances": 188
+  },
+  {
+    "rank": 91,
+    "speaker_id": 6437,
+    "composite_score": 0.9012,
+    "spk_sim": 0.9678,
+    "nisqa_mos": 4.42,
+    "dnsmos_ovrl": 3.42,
+    "wer": 0.0217,
+    "train_utterances": 158
+  },
+  {
+    "rank": 92,
+    "speaker_id": 4051,
+    "composite_score": 0.9002,
+    "spk_sim": 0.9631,
+    "nisqa_mos": 4.2,
+    "dnsmos_ovrl": 3.57,
+    "wer": 0.0143,
+    "train_utterances": 169
+  },
+  {
+    "rank": 93,
+    "speaker_id": 8051,
+    "composite_score": 0.8999,
+    "spk_sim": 0.944,
+    "nisqa_mos": 4.67,
+    "dnsmos_ovrl": 3.62,
+    "wer": 0.1031,
+    "train_utterances": 127
+  },
+  {
+    "rank": 94,
+    "speaker_id": 1183,
+    "composite_score": 0.8997,
+    "spk_sim": 0.8911,
+    "nisqa_mos": 4.93,
+    "dnsmos_ovrl": 3.25,
+    "wer": 0.0312,
+    "train_utterances": 189
+  },
+  {
+    "rank": 95,
+    "speaker_id": 2952,
+    "composite_score": 0.8997,
+    "spk_sim": 0.9643,
+    "nisqa_mos": 4.65,
+    "dnsmos_ovrl": 3.61,
+    "wer": 0.0569,
+    "train_utterances": 205
+  },
+  {
+    "rank": 96,
+    "speaker_id": 6476,
+    "composite_score": 0.8994,
+    "spk_sim": 0.9543,
+    "nisqa_mos": 4.62,
+    "dnsmos_ovrl": 3.52,
+    "wer": 0.0627,
+    "train_utterances": 152
+  },
+  {
+    "rank": 97,
+    "speaker_id": 1040,
+    "composite_score": 0.8992,
+    "spk_sim": 0.9384,
+    "nisqa_mos": 4.41,
+    "dnsmos_ovrl": 3.56,
+    "wer": 0.0,
+    "train_utterances": 130
+  },
+  {
+    "rank": 98,
+    "speaker_id": 8123,
+    "composite_score": 0.8985,
+    "spk_sim": 0.9718,
+    "nisqa_mos": 4.36,
+    "dnsmos_ovrl": 3.74,
+    "wer": 0.0806,
+    "train_utterances": 244
+  },
+  {
+    "rank": 99,
+    "speaker_id": 7511,
+    "composite_score": 0.8983,
+    "spk_sim": 0.9683,
+    "nisqa_mos": 4.75,
+    "dnsmos_ovrl": 3.63,
+    "wer": 0.0933,
+    "train_utterances": 193
+  },
+  {
+    "rank": 100,
+    "speaker_id": 4340,
+    "composite_score": 0.8979,
+    "spk_sim": 0.9624,
+    "nisqa_mos": 4.46,
+    "dnsmos_ovrl": 3.53,
+    "wer": 0.0333,
+    "train_utterances": 107
+  },
+  {
+    "rank": 101,
+    "speaker_id": 4214,
+    "composite_score": 0.8977,
+    "spk_sim": 0.9417,
+    "nisqa_mos": 4.65,
+    "dnsmos_ovrl": 3.2,
+    "wer": 0.0455,
+    "train_utterances": 166
+  },
+  {
+    "rank": 102,
+    "speaker_id": 2136,
+    "composite_score": 0.8976,
+    "spk_sim": 0.9389,
+    "nisqa_mos": 4.57,
+    "dnsmos_ovrl": 3.84,
+    "wer": 0.0893,
+    "train_utterances": 164
+  },
+  {
+    "rank": 103,
+    "speaker_id": 6272,
+    "composite_score": 0.8974,
+    "spk_sim": 0.9718,
+    "nisqa_mos": 4.45,
+    "dnsmos_ovrl": 3.81,
+    "wer": 0.0692,
+    "train_utterances": 218
+  },
+  {
+    "rank": 104,
+    "speaker_id": 6529,
+    "composite_score": 0.8969,
+    "spk_sim": 0.9643,
+    "nisqa_mos": 4.52,
+    "dnsmos_ovrl": 3.5,
+    "wer": 0.0297,
+    "train_utterances": 178
+  },
+  {
+    "rank": 105,
+    "speaker_id": 5163,
+    "composite_score": 0.8956,
+    "spk_sim": 0.9678,
+    "nisqa_mos": 4.55,
+    "dnsmos_ovrl": 3.81,
+    "wer": 0.0901,
+    "train_utterances": 219
+  },
+  {
+    "rank": 106,
+    "speaker_id": 7078,
+    "composite_score": 0.8955,
+    "spk_sim": 0.9616,
+    "nisqa_mos": 4.53,
+    "dnsmos_ovrl": 3.79,
+    "wer": 0.0858,
+    "train_utterances": 194
+  },
+  {
+    "rank": 107,
+    "speaker_id": 1246,
+    "composite_score": 0.8953,
+    "spk_sim": 0.9586,
+    "nisqa_mos": 4.69,
+    "dnsmos_ovrl": 3.48,
+    "wer": 0.0994,
+    "train_utterances": 163
+  },
+  {
+    "rank": 108,
+    "speaker_id": 4640,
+    "composite_score": 0.8949,
+    "spk_sim": 0.9647,
+    "nisqa_mos": 4.57,
+    "dnsmos_ovrl": 3.66,
+    "wer": 0.125,
+    "train_utterances": 135
+  },
+  {
+    "rank": 109,
+    "speaker_id": 200,
+    "composite_score": 0.8949,
+    "spk_sim": 0.9816,
+    "nisqa_mos": 4.43,
+    "dnsmos_ovrl": 3.64,
+    "wer": 0.0718,
+    "train_utterances": 187
+  },
+  {
+    "rank": 110,
+    "speaker_id": 32,
+    "composite_score": 0.8947,
+    "spk_sim": 0.9524,
+    "nisqa_mos": 4.89,
+    "dnsmos_ovrl": 3.34,
+    "wer": 0.125,
+    "train_utterances": 123
+  },
+  {
+    "rank": 111,
+    "speaker_id": 2436,
+    "composite_score": 0.8938,
+    "spk_sim": 0.915,
+    "nisqa_mos": 4.83,
+    "dnsmos_ovrl": 3.58,
+    "wer": 0.0833,
+    "train_utterances": 198
+  },
+  {
+    "rank": 112,
+    "speaker_id": 6385,
+    "composite_score": 0.8927,
+    "spk_sim": 0.9354,
+    "nisqa_mos": 4.09,
+    "dnsmos_ovrl": 3.37,
+    "wer": 0.0,
+    "train_utterances": 182
+  },
+  {
+    "rank": 113,
+    "speaker_id": 2289,
+    "composite_score": 0.8911,
+    "spk_sim": 0.9055,
+    "nisqa_mos": 4.59,
+    "dnsmos_ovrl": 3.41,
+    "wer": 0.0625,
+    "train_utterances": 166
+  },
+  {
+    "rank": 114,
+    "speaker_id": 1069,
+    "composite_score": 0.8873,
+    "spk_sim": 0.9267,
+    "nisqa_mos": 4.13,
+    "dnsmos_ovrl": 3.7,
+    "wer": 0.0278,
+    "train_utterances": 108
+  },
+  {
+    "rank": 115,
+    "speaker_id": 4137,
+    "composite_score": 0.8865,
+    "spk_sim": 0.9249,
+    "nisqa_mos": 4.27,
+    "dnsmos_ovrl": 3.37,
+    "wer": 0.0,
+    "train_utterances": 275
+  },
+  {
+    "rank": 116,
+    "speaker_id": 4297,
+    "composite_score": 0.8864,
+    "spk_sim": 0.9438,
+    "nisqa_mos": 4.69,
+    "dnsmos_ovrl": 3.42,
+    "wer": 0.0394,
+    "train_utterances": 284
+  },
+  {
+    "rank": 117,
+    "speaker_id": 3259,
+    "composite_score": 0.8858,
+    "spk_sim": 0.9232,
+    "nisqa_mos": 4.69,
+    "dnsmos_ovrl": 3.49,
+    "wer": 0.0908,
+    "train_utterances": 163
+  },
+  {
+    "rank": 118,
+    "speaker_id": 5867,
+    "composite_score": 0.8857,
+    "spk_sim": 0.9214,
+    "nisqa_mos": 4.64,
+    "dnsmos_ovrl": 3.16,
+    "wer": 0.0357,
+    "train_utterances": 184
+  },
+  {
+    "rank": 119,
+    "speaker_id": 5703,
+    "composite_score": 0.881,
+    "spk_sim": 0.9484,
+    "nisqa_mos": 4.5,
+    "dnsmos_ovrl": 3.57,
+    "wer": 0.1102,
+    "train_utterances": 107
+  },
+  {
+    "rank": 120,
+    "speaker_id": 8838,
+    "composite_score": 0.8737,
+    "spk_sim": 0.8539,
+    "nisqa_mos": 4.5,
+    "dnsmos_ovrl": 3.11,
+    "wer": 0.01,
+    "train_utterances": 274
+  },
+  {
+    "rank": 121,
+    "speaker_id": 60,
+    "composite_score": 0.8723,
+    "spk_sim": 0.9258,
+    "nisqa_mos": 4.17,
+    "dnsmos_ovrl": 3.44,
+    "wer": 0.0833,
+    "train_utterances": 113
+  },
+  {
+    "rank": 122,
+    "speaker_id": 7367,
+    "composite_score": 0.871,
+    "spk_sim": 0.9262,
+    "nisqa_mos": 4.85,
+    "dnsmos_ovrl": 3.47,
+    "wer": 0.1429,
+    "train_utterances": 172
+  },
+  {
+    "rank": 123,
+    "speaker_id": 40,
+    "composite_score": 0.8674,
+    "spk_sim": 0.8939,
+    "nisqa_mos": 4.24,
+    "dnsmos_ovrl": 3.46,
+    "wer": 0.0636,
+    "train_utterances": 339
+  },
+  {
+    "rank": 124,
+    "speaker_id": 3983,
+    "composite_score": 0.8655,
+    "spk_sim": 0.9559,
+    "nisqa_mos": 4.79,
+    "dnsmos_ovrl": 3.75,
+    "wer": 0.1753,
+    "train_utterances": 155
+  },
+  {
+    "rank": 125,
+    "speaker_id": 6000,
+    "composite_score": 0.8635,
+    "spk_sim": 0.8858,
+    "nisqa_mos": 4.4,
+    "dnsmos_ovrl": 3.24,
+    "wer": 0.0982,
+    "train_utterances": 126
+  },
+  {
+    "rank": 126,
+    "speaker_id": 460,
+    "composite_score": 0.8635,
+    "spk_sim": 0.9279,
+    "nisqa_mos": 4.77,
+    "dnsmos_ovrl": 3.62,
+    "wer": 0.1581,
+    "train_utterances": 229
+  },
+  {
+    "rank": 127,
+    "speaker_id": 6147,
+    "composite_score": 0.861,
+    "spk_sim": 0.9323,
+    "nisqa_mos": 4.16,
+    "dnsmos_ovrl": 3.46,
+    "wer": 0.0852,
+    "train_utterances": 353
+  },
+  {
+    "rank": 128,
+    "speaker_id": 4195,
+    "composite_score": 0.86,
+    "spk_sim": 0.9389,
+    "nisqa_mos": 4.89,
+    "dnsmos_ovrl": 3.38,
+    "wer": 0.221,
+    "train_utterances": 330
+  },
+  {
+    "rank": 129,
+    "speaker_id": 2836,
+    "composite_score": 0.8595,
+    "spk_sim": 0.8839,
+    "nisqa_mos": 4.32,
+    "dnsmos_ovrl": 3.47,
+    "wer": 0.0719,
+    "train_utterances": 278
+  },
+  {
+    "rank": 130,
+    "speaker_id": 125,
+    "composite_score": 0.8576,
+    "spk_sim": 0.909,
+    "nisqa_mos": 4.83,
+    "dnsmos_ovrl": 3.36,
+    "wer": 0.1667,
+    "train_utterances": 130
+  },
+  {
+    "rank": 131,
+    "speaker_id": 250,
+    "composite_score": 0.8563,
+    "spk_sim": 0.9591,
+    "nisqa_mos": 3.93,
+    "dnsmos_ovrl": 3.6,
+    "wer": 0.119,
+    "train_utterances": 191
+  },
+  {
+    "rank": 132,
+    "speaker_id": 3235,
+    "composite_score": 0.8459,
+    "spk_sim": 0.9645,
+    "nisqa_mos": 4.57,
+    "dnsmos_ovrl": 3.66,
+    "wer": 0.2866,
+    "train_utterances": 106
+  },
+  {
+    "rank": 133,
+    "speaker_id": 229,
+    "composite_score": 0.844,
+    "spk_sim": 0.9467,
+    "nisqa_mos": 4.3,
+    "dnsmos_ovrl": 3.37,
+    "wer": 0.2067,
+    "train_utterances": 110
+  },
+  {
+    "rank": 134,
+    "speaker_id": 5678,
+    "composite_score": 0.8413,
+    "spk_sim": 0.8161,
+    "nisqa_mos": 4.46,
+    "dnsmos_ovrl": 3.37,
+    "wer": 0.0,
+    "train_utterances": 170
+  },
+  {
+    "rank": 135,
+    "speaker_id": 8770,
+    "composite_score": 0.8367,
+    "spk_sim": 0.9172,
+    "nisqa_mos": 4.47,
+    "dnsmos_ovrl": 3.5,
+    "wer": 0.25,
+    "train_utterances": 136
+  },
+  {
+    "rank": 136,
+    "speaker_id": 1578,
+    "composite_score": 0.8215,
+    "spk_sim": 0.8034,
+    "nisqa_mos": 4.11,
+    "dnsmos_ovrl": 2.73,
+    "wer": 0.05,
+    "train_utterances": 113
+  },
+  {
+    "rank": 137,
+    "speaker_id": 7059,
+    "composite_score": 0.8208,
+    "spk_sim": 0.899,
+    "nisqa_mos": 4.9,
+    "dnsmos_ovrl": 3.48,
+    "wer": 0.75,
+    "train_utterances": 167
+  },
+  {
+    "rank": 138,
+    "speaker_id": 3526,
+    "composite_score": 0.8148,
+    "spk_sim": 0.9207,
+    "nisqa_mos": 4.37,
+    "dnsmos_ovrl": 3.48,
+    "wer": 0.2632,
+    "train_utterances": 132
+  },
+  {
+    "rank": 139,
+    "speaker_id": 831,
+    "composite_score": 0.8107,
+    "spk_sim": 0.9297,
+    "nisqa_mos": 3.79,
+    "dnsmos_ovrl": 3.41,
+    "wer": 0.25,
+    "train_utterances": 229
+  },
+  {
+    "rank": 140,
+    "speaker_id": 7302,
+    "composite_score": 0.8005,
+    "spk_sim": 0.9101,
+    "nisqa_mos": 3.97,
+    "dnsmos_ovrl": 3.37,
+    "wer": 0.2857,
+    "train_utterances": 170
+  },
+  {
+    "rank": 141,
+    "speaker_id": 1502,
+    "composite_score": 0.7815,
+    "spk_sim": 0.8691,
+    "nisqa_mos": 3.89,
+    "dnsmos_ovrl": 3.34,
+    "wer": 0.2738,
+    "train_utterances": 151
+  },
+  {
+    "rank": 142,
+    "speaker_id": 1743,
+    "composite_score": 0.7736,
+    "spk_sim": 0.8051,
+    "nisqa_mos": 4.57,
+    "dnsmos_ovrl": 3.36,
+    "wer": 0.25,
+    "train_utterances": 195
+  },
+  {
+    "rank": 143,
+    "speaker_id": 3879,
+    "composite_score": 0.7713,
+    "spk_sim": 0.8942,
+    "nisqa_mos": 3.84,
+    "dnsmos_ovrl": 3.15,
+    "wer": 0.2882,
+    "train_utterances": 259
+  },
+  {
+    "rank": 144,
+    "speaker_id": 5104,
+    "composite_score": 0.7655,
+    "spk_sim": 0.8693,
+    "nisqa_mos": 3.61,
+    "dnsmos_ovrl": 3.39,
+    "wer": 0.2857,
+    "train_utterances": 187
+  },
+  {
+    "rank": 145,
+    "speaker_id": 118,
+    "composite_score": 0.7509,
+    "spk_sim": 0.8365,
+    "nisqa_mos": 3.55,
+    "dnsmos_ovrl": 3.11,
+    "wer": 0.25,
+    "train_utterances": 219
+  }
+]

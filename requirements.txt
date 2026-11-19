@@ -1,0 +1,28 @@
+# Core Deep Learning & SSM Frameworks
+torch>=2.1.0
+torchaudio>=2.1.0
+lightning>=2.1.0
+mamba-ssm>=2.2.2
+causal-conv1d>=1.4.0
+
+# Neural Audio Codec & Model Hub
+voxcpm>=2.0.0
+huggingface_hub>=0.20.0
+
+# Text Preprocessing & G2P Phonemization
+phonemizer>=3.2.1
+unidecode>=1.3.6
+inflect>=7.0.0
+
+# Audio I/O & DSP Processing
+soundfile>=0.12.1
+librosa>=0.10.0
+scipy>=1.10.0
+numpy>=1.24.0
+
+# Utilities & Evaluation
+pandas>=2.0.0
+einops>=0.7.0
+tqdm>=4.65.0
+jiwer>=3.0.0
+
